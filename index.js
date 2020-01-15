@@ -28,5 +28,5 @@ main();
 
 // // For reading the json
 // const rawdata = fs.readFileSync('reviews.json');
-// const data = JSON.parse(rawdata);
-// console.log(data.length);
+// const json = JSON.parse(rawdata);
+// console.log(json.data.length);
